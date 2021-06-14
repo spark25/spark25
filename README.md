@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit
 - 👀 I’m interested in Design and Technology
-- 🌱 I’m currently learning PWAs and React
+- 🌱 I’m currently learning Three.js and SVG Animations
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me toosumit.com | IG- @toosumit | LinkedIn- isumitk
 <!---
